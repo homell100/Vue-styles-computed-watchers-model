@@ -1,0 +1,2 @@
+- Los ejercicios que pone "assignment" son los ejercicios a realizar
+- Los demàs, son ejemplos de uso de Vue
